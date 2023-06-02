@@ -18,3 +18,4 @@ dependencies:
   - openpyxl
   - spyder
   - imageai
+  - Roboflow

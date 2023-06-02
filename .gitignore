@@ -107,3 +107,5 @@ dmypy.json
 #Project Specific Files
 **/*.h5
 
+#Mac Specific Files
+.DS_Store
