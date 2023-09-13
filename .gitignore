@@ -106,6 +106,9 @@ dmypy.json
 
 #Project Specific Files
 **/*.h5
+Images/*
+Shorelines/*
+Target/*
 
 #Mac Specific Files
 *.DS_Store
