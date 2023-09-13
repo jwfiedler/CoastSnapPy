@@ -109,6 +109,4 @@ dmypy.json
 
 #Mac Specific Files
 *.DS_Store
-Target/.DS_Store
-Shorelines/.DS_Store
-Images/.DS_Store
+
